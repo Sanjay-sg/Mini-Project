@@ -21,8 +21,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ### Program And Output:
 ```
-Developed By: DIVYA K
-Reg No: 212222230035
+Developed By:Sanjay G
+Reg No: 212222230131
 ```
 Importing necessary packages:
 ```
